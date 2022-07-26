@@ -18,8 +18,8 @@
                     <li id="icona_menu" class="icona">
                         <img class="icona" src="/img/icona_menu.png" />
                         <ul id="lista_menu" class="lista">
+                          <li class="spazio_voci"><a class="voci" href="/root/form/GestisciGeneri.aspx">Gestisci Generi</a></li>
                           <li class="spazio_voci"><a class="voci" href="/root/form/GestisciTipoCommessa.aspx">Gestisci Libri</a></li>
-                          <li class="spazio_voci"><a class="voci" href="/root/form/GestisciTipoContratti.aspx">Gestisci Generi</a></li>
                         </ul>
                     </li>
                 </ul>
