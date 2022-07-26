@@ -78,5 +78,11 @@ public class GENERI
 
         return dt.Rows.Count > 0;
     }
+    public DataTable SelectForDDL()
+    {
+        CONNESSIONE C = new CONNESSIONE();
+
+        return C.EseguiSp("GENERI_SELECTFORDDL");
+    }
 }
 
