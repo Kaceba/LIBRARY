@@ -1,0 +1,6 @@
+C:\Users\mrobz\Desktop\Junior Dev .NET\.LIBRARY\LIBRERIACLASSI\bin\Debug\LIBRERIACLASSI.dll
+C:\Users\mrobz\Desktop\Junior Dev .NET\.LIBRARY\LIBRERIACLASSI\bin\Debug\LIBRERIACLASSI.pdb
+C:\Users\mrobz\Desktop\Junior Dev .NET\.LIBRARY\LIBRERIACLASSI\obj\Debug\LIBRERIACLASSI.csproj.AssemblyReference.cache
+C:\Users\mrobz\Desktop\Junior Dev .NET\.LIBRARY\LIBRERIACLASSI\obj\Debug\LIBRERIACLASSI.csproj.CoreCompileInputs.cache
+C:\Users\mrobz\Desktop\Junior Dev .NET\.LIBRARY\LIBRERIACLASSI\obj\Debug\LIBRERIACLASSI.dll
+C:\Users\mrobz\Desktop\Junior Dev .NET\.LIBRARY\LIBRERIACLASSI\obj\Debug\LIBRERIACLASSI.pdb

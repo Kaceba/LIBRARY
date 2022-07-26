@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LIBRARY", ".", "{CF05AF7D-394F-4768-9CD8-C0414FEFD7CB}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.2"
+		ProjectReferences = "{01d1f794-a45d-4765-9ebf-c927698fa231}|LIBRERIACLASSI.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_61032"
 		Debug.AspNetCompiler.PhysicalPath = "..\LIBRARY\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61032\"
