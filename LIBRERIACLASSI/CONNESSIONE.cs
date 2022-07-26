@@ -13,7 +13,7 @@ using System.Web;
 public class CONNESSIONE // classe
 {
     // Dichiarazione dei membri della classe
-    public SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-V2BKRA6\SQLEXPRESS;Initial Catalog=SOFTHOUSE;Integrated Security=True");
+    public SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-V2BKRA6\SQLEXPRESS;Initial Catalog=LIBRARY;Integrated Security=True");
     public string query;
 
     public CONNESSIONE() // costruttore della classe

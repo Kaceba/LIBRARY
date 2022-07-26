@@ -9,6 +9,17 @@ public partial class MasterPage : System.Web.UI.MasterPage
 {
     protected void Page_Load(object sender, EventArgs e)
     {
+        UTENTI u = new UTENTI();
+        string tipologiaUtente = Session["TipologiaUtente"].ToString();
 
+        if (tipologiaUtente != "S")
+        {
+            GestioneUtenti.Visible = false;
+        }
+    }
+
+    protected void GestioneUtenti_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("/root/form/GestisciUtenti.aspx");
     }
 }
