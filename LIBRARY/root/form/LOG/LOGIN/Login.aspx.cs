@@ -14,7 +14,7 @@ public partial class Login : System.Web.UI.Page
 
     protected void btnLogin_Click(object sender, EventArgs e)
     {
-        if(txtEmail.Text == "" || txtPswd.Text == "")
+        if (txtEmail.Text == "" || txtPswd.Text == "")
         {
             ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "Attenzione", "alert('Errore dati non validi')", true);
             return;
@@ -32,7 +32,7 @@ public partial class Login : System.Web.UI.Page
         catch (Exception ex)
         {
             ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "ERRORE", "alert('Riprovare')", true);
-            
+
         }
 
         if (u.LOGIN() == true)
